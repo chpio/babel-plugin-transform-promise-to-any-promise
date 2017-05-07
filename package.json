@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-promise-to-any-promise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transforms *Promise* to *any-promise*",
   "main": "main.es5.js",
   "devDependencies": {
